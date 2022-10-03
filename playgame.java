@@ -11,7 +11,7 @@
         
         void takingInput(){
             Scanner sc=new Scanner(System.in);
-            System.out.println("Enter a number you want to guess:");
+            System.out.println("Enter a number:");
             this.inputNumber=sc.nextInt();
     
  
